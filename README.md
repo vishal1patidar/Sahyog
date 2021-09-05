@@ -12,9 +12,11 @@
 
 ## 📌 Sneak Peek of Site 🙈 :
 
-![Screenshot (39)](https://user-images.githubusercontent.com/79128256/132114794-30dddbfa-8588-45ed-b001-4e08ab2e30d4.png)
 
-![Screenshot (40)](https://user-images.githubusercontent.com/79128256/132114797-b4f74375-f233-41f7-90e1-03b616ad68e8.png)
+
+https://user-images.githubusercontent.com/79128256/132115338-da9fbcab-b884-4b20-8b0d-0e7677893abf.mp4
+
+
 
 **© 2021 vishal patidar**
 
